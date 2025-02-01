@@ -8,7 +8,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GuizeraaaXyz/GuizeraaaXyz/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/GuizeraaaXyz/GuizeraaaXyz/output/snake.svg](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)" alt="#" />
 
 ###
 
