@@ -8,7 +8,7 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/GuizeraaaXyz/GuizeraaaXyz/output/snake.svg](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)" alt="#" />
+<img src="https://i.scdn.co/image/ab67616d00004851264a0478cccbc94ac61cb479" alt="spotify-logo">
 
 ###
 
