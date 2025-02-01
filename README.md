@@ -1,4 +1,3 @@
-<img src="https://i.scdn.co/image/ab67616d00004851264a0478cccbc94ac61cb479" alt="spotify-logo" style="text-align: center;">
 <h1 align="center">Guilherme</h1>
 ###
 <div align="center">
