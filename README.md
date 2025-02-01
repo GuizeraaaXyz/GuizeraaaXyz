@@ -1,4 +1,4 @@
-<img src="https://i.scdn.co/image/ab67616d00004851264a0478cccbc94ac61cb479" alt="spotify-logo">
+<img src="https://i.scdn.co/image/ab67616d00004851264a0478cccbc94ac61cb479" alt="spotify-logo" style="text-align: center;">
 <h1 align="center">Guilherme</h1>
 ###
 <div align="center">
@@ -8,4 +8,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
-###
